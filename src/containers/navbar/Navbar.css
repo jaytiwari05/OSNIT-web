@@ -1,0 +1,12 @@
+.container {
+    height: 100px;
+}
+
+.logo-img {
+    height: 70px;
+    width: 100px;
+    border: 2px solid black; /* Add a border around the image */
+    border-radius: 25px; /* Make the image circular */
+    margin: 10px; /* Add some space around the image */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a shadow effect */
+}

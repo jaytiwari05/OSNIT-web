@@ -1,0 +1,51 @@
+body{
+
+    background-image: url('https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg');
+
+    /* background-image: url('https://w0.peakpx.com/wallpaper/141/754/HD-wallpaper-3d-white-texture-white-geometric-texture-3d-white-background-3d-gypsum-white-texture-white-creative-background-thumbnail.jpg'); */
+
+    /* background-image: url('https://www.marshallsindia.com/ImageBuckets/ItemImages/ZA%201903.jpg?id=75'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+    
+}
+
+.container-1 {
+    
+    
+  
+  }
+.container-2 {
+    
+    background-size: cover;
+}
+
+.card-main {
+    
+  padding: 100px;
+}
+
+.card{
+    /* border-radius: 10px; */
+    background-color: rgba(255, 255, 255, 0.245);
+    backdrop-filter: blur(10px);
+    padding: 10px 20px;
+}
+
+
+.svg-user {
+    height: 100px;
+    width: 20px;
+}
+.card-title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.null{
+    background-color: rgba(11, 11, 155, 0.71);
+}

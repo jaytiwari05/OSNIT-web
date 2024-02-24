@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.container-footer {
+    height: 50px;
+}
+
+.contact-us {
+    padding: 10px;
+}
+
+.col-mb-4 {
+    padding: 40px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+}
